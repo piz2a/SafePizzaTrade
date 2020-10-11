@@ -1,0 +1,26 @@
+makeCommandOnlyForOP: true
+blacklistedWorlds: []
+enableShiftRightClick: true
+tradeCommandCoolDown: 3
+maxTradeDistance: 20.0
+maxTradeAcceptTime: 10
+guiSlotRow: 3
+guiTitle: "Trading: %s and %s"
+acceptButtonName: "Accept Trade"
+declineButtonName: "Decline Trade"
+giveRequestMessage: "You sent a trade request to %s."
+requestMessage: "%s sent you a trade request. Click here to accept!"
+hoverText: "Click here to trade!"
+requestExpiredMessage: "Trade request from %s has been expired!"
+myRequestExpiredMessage: "Trade request to %s has been expired!"
+coolDownMessage: "The command is in cooldown!"
+cantPutItem: "Your trading inventory is full!"
+cannotTradeWithYourself: "You cannot trade with yourself!"
+tooFarMessage: "The player is too far!"
+tradeCompletedMessage: "Trade Completed!"
+tradeCanceledMessage: "Trade Canceled!"
+tradingLog: "Trading: %s and %s"
+tradeExitLog: "Trading ended: %s and %s"
+configReloadCompletedMessage: "Configuration file successfully reloaded."
+consoleTradingMessage: "Console cannot trade!"
+permissionMessage: "You don't have permission to run this command!"

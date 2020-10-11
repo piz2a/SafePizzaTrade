@@ -1,0 +1,14 @@
+name: SafePizzaTrade
+version: 0.1
+author: piz2a
+main: io.github.piz2a.safetrade.SafeTrade
+api-version: 1.12.2-R0.1-SNAPSHOT
+commands:
+  trade:
+    description: Trade with the player. You can also hold Shift and Right Click the player to run.
+    usage: "Usage: /trade <player>"
+  trade-reload:
+    description: Reloads configuration file.
+  trade-debug:
+    description: Debugs SafePizzaTrade plugin.
+    usage: "Usage: /trade-debug <player>"
